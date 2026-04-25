@@ -1,0 +1,18 @@
+# Maven / Java build output
+target/
+
+# jpackage artifacts created by build-installer.ps1
+dist_fixed/
+dist_image_fixed/
+
+# IDE/local settings
+.vscode/
+.idea/
+*.iml
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

@@ -1,0 +1,11 @@
+[
+  {
+    "id": 42,
+    "title": "Move boxes",
+    "location": "Warehouse",
+    "price": 55.0,
+    "status": "PUBLISHED",
+    "createdBy": "owner",
+    "bookedBy": "worker"
+  }
+]
