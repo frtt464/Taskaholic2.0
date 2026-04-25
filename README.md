@@ -97,15 +97,15 @@ Then run the script again.
 - JavaFX runtime errors:
   - Use JDK 25 and do a clean build: `mvn clean package`.
 
-## 6. Share With Teammates
+## 6. What you need:
 
-After pulling this repository, teammates only need:
+After pulling this repository, you need:
 
 1. JDK 25
 2. Maven 3.9+
 3. PowerShell (for installer build)
 
-Then they can run:
+Then you can run:
 
 ```powershell
 mvn clean test
