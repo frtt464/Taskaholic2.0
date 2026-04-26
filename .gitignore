@@ -14,5 +14,6 @@ dist_image_fixed/
 .DS_Store
 Thumbs.db
 
+
 # Logs
 *.log
