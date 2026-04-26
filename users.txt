@@ -5,6 +5,7 @@
     "role": "TASKMASTER"
   },
   {
+
     "username": "u2",
     "password": "p2",
     "role": "TASKER"
