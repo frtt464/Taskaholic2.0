@@ -7,6 +7,7 @@ param(
 	[string]$IconPath = "src/main/resources/taskaholic-logo.ico"
 )
 
+
 $ErrorActionPreference = "Stop"
 
 $root = Split-Path -Parent $MyInvocation.MyCommand.Path
